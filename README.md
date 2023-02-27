@@ -1,4 +1,6 @@
 # BlogApp
+##to customize the join table
+
 
 @Entity
 @Table(name = "users")
